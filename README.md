@@ -8,7 +8,7 @@ A comunicação da aplicação com o banco de dados é feita através do Sequeli
 # Tecnologias utilizadas
 - NodeJS
 - Nodemon
-- Express
+- ExpressJS
 - Sequelize
 - Cors
 - Body Parser
