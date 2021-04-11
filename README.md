@@ -16,7 +16,12 @@ A comunicação da aplicação com o banco de dados é feita através do Sequeli
 
 # Como executar o projeto
 ### **Dependências necessárias:** Express, Nodemon, Body Parser, Cors e Sequelize. </br>
-Primeiramente você deverá clonar o repositório:
+**As libs acima podem ser instaladas utilizando:**
+
+```bash
+npm install <nome_do_pacote>
+```
+Para prosseguirmos, primeiramente você deverá clonar o repositório em sua máquina:
 
 ```bash
 # clonar repositório
