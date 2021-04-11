@@ -19,7 +19,7 @@ A comunicação da aplicação com o banco de dados é feita através do Sequeli
 **As libs acima podem ser instaladas utilizando:**
 
 ```bash
-npm install <nome_do_pacote>
+npm install nome_do_pacote
 ```
 Para prosseguirmos, primeiramente você deverá clonar o repositório em sua máquina:
 
