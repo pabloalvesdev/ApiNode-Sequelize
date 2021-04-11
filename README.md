@@ -33,7 +33,7 @@ Ao abrir o arquivo "db.js" com o seu editor de textos, altere as seguintes linha
 ```js
 const banco = new Sequelize('nome_do_banco', 'usuario', 'senha', {
     host: 'url_do_seu_server',
-    dialect: 'mysql' //esta é a referência em que o sequelize terá de trabalhar, o banco que utilizei para rodas este projeto foi MySQL, portanto no meu caso é mysql, mas poderia ser 'sqlite', 'postgres', 'mariadb' ou 'mssql'
+    dialect: 'mysql' //esta é a referência em que o sequelize terá de trabalhar, o banco que utilizei para rodar este projeto foi MySQL, portanto no meu caso é mysql, mas poderia ser 'sqlite', 'postgres', 'mariadb' ou 'mssql'
 })
 ```
 
