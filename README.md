@@ -33,7 +33,7 @@ cd ApiNode-Sequelize
 ## abra com o seu editor de textos, no meu caso é o vscode...
 code ./app/models/db.js
 ```
-Ao abrir o arquivo "db.js" com o seu editor de textos, altere as seguintes linhas:
+Ao abrir o arquivo "db.js" com o seu editor de textos, procure altere as seguintes linhas:
 
 ```js
 const banco = new Sequelize('nome_do_banco', 'usuario', 'senha', {
